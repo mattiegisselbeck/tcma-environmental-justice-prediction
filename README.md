@@ -1,1 +1,28 @@
-# tcma-environmental-justice-prediction
+# `tcma-environmental-justice-prediction` : Environmental Justice Concern Prediction Using Random Forest
+
+
+This project was completed as a requirement for GIS 5572: Principles of Geocomputing at the University of Minnesota.
+
+## About
+
+The objective of this project was to use Random Forest to predict whether census tracts in the
+Twin Cities Metro Area (TCMA) are areas of environmental justice concern and visually display the predictions using an interactive map.
+
+### Methods
+- Random Forest Model `scikit-learn`
+
+### Results 
+Random Forest Evalution Metrics
+* MSE = 0.02
+* r2 = 0.88
+
+## Structure
+* Data: `/data`
+
+* IPYNB Prediction File: `environmental_justice__concern_prediction.ipynb`
+
+
+## Author(s)
+Mattie Gisselbeck
+<br>
+Nikunj Chawla
