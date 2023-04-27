@@ -12,9 +12,9 @@ Twin Cities Metro Area (TCMA) are areas of environmental justice concern and vis
 - Random Forest Model `scikit-learn`
 
 ### Results 
-Random Forest Evalution Metrics
+Random Forest Evaluation Metrics
 
-| MSE  | r2    |
+| `MSE`| `r2   |
 | -----| ----- |
 | 0.02 | 0.88  |
 
