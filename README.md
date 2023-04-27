@@ -21,7 +21,7 @@ Random Forest Evaluation Metrics
 ## Structure
 * Data: `/data`
 
-* IPYNB Prediction File: `environmental_justice__concern_prediction.ipynb`
+* Jupyter Notebook: `environmental_justice__concern_prediction.ipynb`
 
 
 ## Author(s)
