@@ -12,11 +12,8 @@ Twin Cities Metro Area (TCMA) are areas of environmental justice concern and vis
 - Random Forest `scikit-learn`
 
 ### Results 
-Random Forest Evaluation Metrics
+- Random Forest performed the best with an R-squared of 0.88 and MSE of 0.02.
 
-| MSE  | r2    |
-| -----| ----- |
-| 0.02 | 0.88  |
 
 ## Structure
 * Data: `/data`
