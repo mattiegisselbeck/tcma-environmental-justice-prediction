@@ -9,7 +9,7 @@ The objective of this project was to use Random Forest to predict whether census
 Twin Cities Metro Area (TCMA) are areas of environmental justice concern and visually display the predictions using an interactive map.
 
 ### Methods
-- Random Forest Model `scikit-learn`
+- Random Forest `scikit-learn`
 
 ### Results 
 Random Forest Evaluation Metrics
