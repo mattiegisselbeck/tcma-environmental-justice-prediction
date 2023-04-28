@@ -21,4 +21,4 @@ Twin Cities Metro Area (TCMA) are areas of environmental justice concern and vis
 ## Author(s)
 Mattie Gisselbeck
 <br>
-Nikunj Chawla
+[`Nikunj Chawla`](https://github.com/nik312123)
