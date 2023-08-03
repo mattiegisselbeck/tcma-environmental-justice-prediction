@@ -19,7 +19,7 @@ The solution to the problem stated above is to use a Random Forest machine learn
 | ---- | ------- |
 | 0.02  |  0.88  |
 
-![results](https://github.com/mattiegisselbeck/tcma-environmental-justice-prediction/assets/103837294/c847b885-17d0-45a8-9303-d119fef12daa)
+![results](file:///Users/mattiegisselbeck/Documents/GitHub/tcma-environmental-justice-prediction/notebooks/ej_prediction_map.html)
 
 ## Author(s)
 
