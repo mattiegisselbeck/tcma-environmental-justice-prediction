@@ -1,4 +1,4 @@
-# `tcma-environmental-justice-prediction` : Environmental Justice Concern Prediction Using Random Forest
+# Environmental Justice Concern Prediction Using Random Forest
 
 
 This project was completed as a requirement for GIS 5572: Principles of Geocomputing at the University of Minnesota.
