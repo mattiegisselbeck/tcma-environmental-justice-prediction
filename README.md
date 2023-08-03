@@ -19,7 +19,8 @@ The solution to the problem stated above is to use a Random Forest machine learn
 | ---- | ------- |
 | 0.02  |  0.88  |
 
-![results](ej_prediction_map.html)
+
+[`Map`](ej_prediction_map.html)
 
 ## Author(s)
 
